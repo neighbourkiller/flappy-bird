@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/105565034_p0.jpg</file>
+        <file>images/108926317_p0.png</file>
+        <file>images/108926317_p2.png</file>
+        <file>images/83742858_p0.png</file>
+        <file>images/98338327_p0.png</file>
+        <file>images/animate1.png</file>
+        <file>images/bluebird.png</file>
+        <file>images/gameover.png</file>
+        <file>images/ground.png</file>
+        <file>images/jerry.png</file>
+        <file>images/kunback.png</file>
+        <file>images/kunkun.png</file>
+        <file>images/kunkun02.png</file>
+        <file>images/kunshout.mp3</file>
+        <file>images/lanqiu.png</file>
+        <file>images/nubird.png</file>
+        <file>images/pikaqiu.png</file>
+        <file>images/pipe1.png</file>
+        <file>images/pipe2.png</file>
+        <file>images/R-C.jpg</file>
+        <file>images/redbird.png</file>
+        <file>images/replay.png</file>
+        <file>images/search.png</file>
+        <file>images/settings.png</file>
+        <file>images/tom.png</file>
+        <file>images/zhendeshinia.mp3</file>
+        <file>images/kunkun05.png</file>
+        <file>images/basketball01.png</file>
+        <file>images/gameover2.png</file>
+        <file>music/kunshout.mp3</file>
+        <file>music/zhendeshinia.mp3</file>
+        <file>music/zhiyinnitaimei.mp3</file>
+        <file>music/niganma.mp3</file>
+        <file>music/kunshout.wav</file>
+        <file>data/datas.txt</file>
+    </qresource>
+</RCC>
